@@ -86,7 +86,7 @@ to check installed packages: (you should see opencv-python, numpy, and others)
 
 3. Run
 
-python mask_webcam_simple.py
+<img width="291" height="39" alt="image" src="https://github.com/user-attachments/assets/460294a3-f64d-47ee-9d55-f89e36d9a463" />
 
 4. Check output:
 
