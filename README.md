@@ -91,3 +91,16 @@ to check installed packages: (you should see opencv-python, numpy, and others)
 4. Check output:
 
 - Processed images will appear in the output/ folder with bounding boxes and labels.
+
+-------------------------------------------------------------------------------------------------------------
+The program successfully processed all test images:
+
+- Correctly detected masked and unmasked faces in most photos.
+
+- Saved annotated copies in the outputs folder.
+
+Limitations:
+
+- Struggles with side-facing profiles, low light, or partially obstructed faces.
+
+- Haar cascades are less accurate than modern deep-learning approache
