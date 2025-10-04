@@ -82,7 +82,7 @@ venv\Scripts\activate
 
 to check installed packages: (you should see opencv-python, numpy, and others)
 
-pip list
+<img width="157" height="42" alt="image" src="https://github.com/user-attachments/assets/bc85e9da-26eb-4c70-9c36-e81603a60d03" />
 
 3. Run
 
